@@ -20,5 +20,31 @@
 
 ## 라이선스
 
-별도의 라이선스 파일이 포함되어 있지 않으므로, 프로젝트 사용 정책은 패키지 제공자에게 문의하세요.
+별도의 라이선스 파일이 포함되어 있지 않으므로, 프로젝트 사용 정책은 패키지 제공자에게 문의하세요。
+
+---
+
+# Jungkomi Growth Game Unity Package
+
+This project provides a Unity package containing the core assets and scripts for the "Jungkomi Growth Game". You can import the package into your Unity project to utilize the game components.
+
+---
+
+## Included Files
+
+- `Jungkomi.unitypackage`: Package file containing game assets (images, prefabs, etc.) and scripts (C#).
+
+## How to Use
+
+1. Create a new project through Unity Hub.
+2. In the top menu, select `Assets > Import Package > Custom Package…`.
+3. Locate and open the provided `Jungkomi.unitypackage` file, select the assets to import, and click `Import`.
+4. After import, check the assets and scripts under the `Assets/Jungkomi` folder in the Project window.
+5. Configure your game by creating scenes or placing prefabs in existing scenes as needed.
+
+---
+
+## License
+
+No separate license file is included, so please contact the package provider for usage policies.
 
